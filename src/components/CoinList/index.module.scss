@@ -1,0 +1,16 @@
+.coinContainer {
+    display: flex;
+    align-items: center;
+    border: 1px #ccc dashed;
+    margin: 10px;
+    width: 92%;
+    justify-content: space-evenly;
+
+    > * {
+        // margin: 5px 25px;
+        width: 20%;
+        overflow: hidden;
+    }
+
+
+}
