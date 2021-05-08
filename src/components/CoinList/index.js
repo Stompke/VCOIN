@@ -60,14 +60,14 @@ const initialCoinData = [
 //     VET: 13169.44688323
 // }
 const portfolio = {
-    ETH: 49,
+    ETH: 50,
     BTC: .6,
-    XLM: 15000,
+    XLM: 43000,
     DOT: 254,
-    LINK: 37,
+    LINK: 174,
     XRP: 1500,
     ADA: 39000,
-    VET: 73000,
+    VET: 74000,
     DASH: 11,
     UNI: 302,
     COMP: 8,
